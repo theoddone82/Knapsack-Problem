@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=population()
+comment1.params=
+comment1.target=int\ populationsFitness()
+comment10.params=
+comment10.target=boolean\ alleRucksaeckeZugelassen()
+comment11.params=
+comment11.target=void\ printPopulationsBesten()
+comment2.params=
+comment2.target=Rucksack\ populationsBestenGeben()
+comment3.params=
+comment3.target=void\ initialisierung()
+comment4.params=
+comment4.target=Rucksack[]\ Selektion()
+comment5.params=
+comment5.target=Rucksack\ roulettSelection()
+comment6.params=
+comment6.target=Rucksack\ Elitismus()
+comment7.params=
+comment7.target=Rucksack\ tournamentSelection()
+comment8.params=r1\ r2
+comment8.target=Rucksack\ Crossover(Rucksack,\ Rucksack)
+comment9.params=mutationsrate
+comment9.target=void\ Mutation(int)
+numComments=12
